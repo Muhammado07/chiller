@@ -179,8 +179,14 @@ a {
   .heros.chiller .details .content h1 {
     font-size: 24px;
   }
+  .heros.chiller .details .content.ar h1 {
+    font-size: 21px;
+  }
   .heros.chiller .details .content p span {
     font-size: 24px;
+  }
+  .heros.chiller .details .content p {
+    font-size: 18px;
   }
 }
 @media screen and (max-width: 380px) {
