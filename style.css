@@ -566,3 +566,8 @@ a {
     right: 15px;
   }
 }
+
+.rc-anchor-invisible:hover .grecaptcha-badge {
+  right: 0;
+  cursor: pointer;
+}
